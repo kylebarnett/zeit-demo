@@ -16,15 +16,7 @@ function App() {
     <main>
       <h1>Create React App + Go API</h1>
       <h2>
-        Deployed with{' '}
-        <a
-          href="https://zeit.co/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          ZEIT Now
-        </a>
-        !
+        WEB PT 7
       </h2>
       <p>
         <a
